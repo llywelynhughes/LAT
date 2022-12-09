@@ -5,5 +5,7 @@ LAT has the capabilities to analyse any image format such as JPEG, PNG, TIFF & B
 
 
 # Install
-1. Matlab App: Open the LAT.mlappinstall file to automatically install the software into the matlab "My Apps" section.
-2. Standalone Software: Download and install the LATInstaller_web.exe application
+1. **Matlab App:** Recommended installation if user has access to Matlab and the Image Processing Toolbox. 
+   Open the LAT.mlappinstall file to automatically install the software into the matlab "My Apps" section.
+   
+2. **Standalone Software:** Download and install the LATInstaller_web.exe application. This will download the software through Matlab's Runtime Installer **Note:** It is recommended to restart computer following installation. 
