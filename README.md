@@ -11,6 +11,10 @@ LAT has the capabilities to analyse any image format such as JPEG, PNG, TIFF & B
 2. **Standalone Software:** Download and install the LATInstaller_web.exe application. This will download the software through Matlab's Runtime Installer **Note:** It is recommended to restart computer following installation. 
 
 # Modifications
-The matlab file LAT.mlapp is also included for user modifications and adaptation of the current application.  
+The matlab file LAT.mlapp is also included for user modifications and adaptation of the current application.
+
+# Citation
+Please cite original code for any future developments: Hughes, L. Lattice Analysis Tool (LAT). [v1.0.0] 2023; Available from: https://github.com/llywelynhughes/LAT.
+
 
 Any issues or queries, please get in touch: Hugheslr2@cardiff.ac.uk
