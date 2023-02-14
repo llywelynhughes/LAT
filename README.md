@@ -10,6 +10,11 @@ LAT has the capabilities to analyse any image format such as JPEG, PNG, TIFF & B
    
 2. **Standalone Software:** Download and install the LATInstaller_web.exe application. This will download the software through Matlab's Runtime Installer **Note:** It is recommended to restart computer following installation. 
 
+# Tips
+1. Ensure that input image doesn't have too much glare which generates bright spots and can impact binarisation process. 
+2. At times an image with too high of a pixel resolution can slow down analysis and impact the interconnectivity of the pixels within the algorithm. In this case, resave the image with the Snipping Tool (or similar).
+3. The heatmap function tends to work best for ordered structures (such as lattices) as opposed to stochastic porosities.
+
 # Modifications
 The matlab file LAT.mlapp is also included for user modifications and adaptation of the current application.
 
