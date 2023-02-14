@@ -22,4 +22,6 @@ The matlab file LAT.mlapp is also included for user modifications and adaptation
 Please cite original code for any future developments: Hughes, L. Lattice Analysis Tool (LAT). [v1.0.0] 2023; Available from: https://github.com/llywelynhughes/LAT.
 
 
-Any issues or queries, please get in touch: Hugheslr2@cardiff.ac.uk
+Any issues or queries, please get in touch.
+Email: Hugheslr2@cardiff.ac.uk
+LinkedIn: https://www.linkedin.com/in/llywelyn-hughes/
