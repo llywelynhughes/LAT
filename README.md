@@ -23,5 +23,7 @@ Please cite original code for any future developments: Hughes, L. Lattice Analys
 
 
 Any issues or queries, please get in touch.
+
 Email: Hugheslr2@cardiff.ac.uk
+
 LinkedIn: https://www.linkedin.com/in/llywelyn-hughes/
