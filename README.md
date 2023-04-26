@@ -20,6 +20,7 @@ v2.0 - Ability to mask boundaries onto a CAD image for direct comparison. Update
 2. At times an image with too high of a pixel resolution can slow down analysis and impact the interconnectivity of the pixels within the algorithm. In this case, resave the image with the Snipping Tool (or similar).
 3. The heatmap function tends to work best for ordered structures (such as lattices) as opposed to stochastic porosities.
 4. If using the CAD overlay function, ensure that both the Original and CAD images are scaled appropriately. 
+5. Note that first startup does tend to lag as matlab initialises figures etc., however speeds up afterwards.
 
 # Modifications
 The matlab file LAT.mlapp is also included for user modifications and adaptation of the current application.
