@@ -7,7 +7,8 @@ The Lattice Analysis Tool (LAT) software is a matlab-based application, which ca
 LAT has the capabilities to analyse any image format such as JPEG, PNG, TIFF & BMP with automatic scaled measurements of the area, diameter, perimeter and centroid of each region, while also calculating averages, standard deviations and planar porosity. The tool has been tailored for additively manufactured lattice structures but also successfully trialed for heat exchanger channels and nanofluidic particle analysis.
 
 # Latest Release
-v2.1 - Automatic binarisation thresholding with Otsu method and removed bug with UIFigure disapearing behind window when uigetfile is used
+v2.1 - Automatic binarisation thresholding with Otsu method and removed bug with UIFigure disapearing behind window when uigetfile is used.
+
 v2.0 - Ability to mask boundaries onto a CAD image for direct comparison. Updated UI for an improved and clearer experience.
 
 # Install
