@@ -28,7 +28,7 @@ v2.0 - Ability to mask boundaries onto a CAD image for direct comparison. Update
 The matlab file LAT.mlapp is also included for user modifications and adaptation of the current application.
 
 # Citation
-Please cite original code for any future developments: Hughes, L. Lattice Analysis Tool (LAT). [v2.0.0] 2023; Available from: https://github.com/llywelynhughes/LAT.
+Please cite original code for any future developments: Hughes, L. Lattice Analysis Tool (LAT). [v2.1.0] 2023; Available from: https://github.com/llywelynhughes/LAT.
 
 
 Any issues or queries, please get in touch.
