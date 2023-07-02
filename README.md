@@ -8,6 +8,8 @@ LAT has the capabilities to analyse any image format such as JPEG, PNG & BMP wit
 NOTE: .tif images are incompatible with some functions of the image processing toolbox.
 
 # Latest Release
+v2.2 - Strut analysis feature to analyse multiple struts in one go.
+
 v2.1 - Automatic binarisation thresholding with Otsu method and removed bug with UIFigure disapearing behind window when uigetfile is used.
 
 v2.0 - Ability to mask boundaries onto a CAD image for direct comparison. Updated UI for an improved and clearer experience.
